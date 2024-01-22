@@ -19,7 +19,7 @@ Thank you for choosing YogaFlow, your premier online platform for a holistic yog
 
 ## Getting Started
 
-Visit [YogaFlow](https://www.yogaflow.com) to create your account. Once registered, you'll have access to a world of yoga classes and resources. Feel free to explore and tailor your yoga experience to suit your needs.
+Visit [YogaFlow](https://mr-tejassharma.github.io/YogaFlow/) to create your account. Once registered, you'll have access to a world of yoga classes and resources. Feel free to explore and tailor your yoga experience to suit your needs.
 
 ---
 
